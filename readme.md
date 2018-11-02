@@ -2,5 +2,6 @@
 ### Made by Gillespie S.
 
 
-## Instructions/Plot
+## Plot
 
+You just graduated college and today is the day you arrive to it  living a normal life overslept and you have to leave
