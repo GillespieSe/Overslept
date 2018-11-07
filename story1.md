@@ -2,6 +2,6 @@ After your done taking a shower and brushing your teeth, You start putting your 
 
 You text saying...
 
-## Sure
+## [Sure](story1.1)
 
-## Not today
+## [Not today](story2.1)
