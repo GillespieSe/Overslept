@@ -1,0 +1,3 @@
+You walk over to the stove and put on the fire, You then get a frying pan and place the eggs and bacon on it now you wait about 15 minutes for it to cook and you start to eat...
+
+## [Next}(story

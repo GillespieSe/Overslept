@@ -1,0 +1,3 @@
+You get a bowl and start pouring flour,an egg,milk,sugar,and salt then shortly after you begin to stir it around...
+
+## [Next](story2.2.4.2.md)

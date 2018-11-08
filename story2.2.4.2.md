@@ -1,0 +1,3 @@
+You turn on the stove and take a pan and start pouring the mix onto the pan you wait 7 minutes and start eating it...
+
+## [Next](story)
