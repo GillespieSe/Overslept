@@ -2,8 +2,8 @@ You texted saying "Sure", David says that you have to be quick because he has to
 
 Do you...
 
-[Rush](story1.2.md)
+[Rush](story1.2)
 
-[Take your time] (story2.1)
+[Take your time](story2.1)
 
 
