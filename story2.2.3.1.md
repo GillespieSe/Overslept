@@ -1,3 +1,3 @@
 You head to the toaster and turned it on, then you place bread in it you wait about 4 minutes for it to toast then you start to eat...
 
-## [Next]()
+## [Next](story2.3.md)
