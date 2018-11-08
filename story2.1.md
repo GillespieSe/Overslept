@@ -1,3 +1,3 @@
 You continue doing your morning routine...
 
-[Next](story2.2)
+[Next](story2.2.md)
