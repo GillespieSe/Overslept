@@ -1,0 +1,3 @@
+You arrive to the train station and notice your train pulling up to the station you run even faster to catch it...
+
+## [Next](story2.5.1.md)
