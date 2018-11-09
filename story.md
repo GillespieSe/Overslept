@@ -5,4 +5,4 @@ You...
 
 ## [Start your morning routine](story1.md)
 
-[images](1.jpg)
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
