@@ -1,9 +1,9 @@
 You texted saying "Sure", David says that you have to be quick because he has to also pick up another one of your friends. 
 
-Do you...
 
-[Rush](story1.2.md)
 
-[Take your time](story2.1.md)
+## [Rush](story1.2.md)
+
+
 
 
