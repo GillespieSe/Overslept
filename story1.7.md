@@ -1,6 +1,6 @@
 The clock ticks...
 
-![image](https://user-images.githubusercontent.com/32097866/48243204-d0830c80-e3e7-11e8-9685-839c8d4ae56e.png)
+![image](https://user-images.githubusercontent.com/32097866/48243362-b0a01880-e3e8-11e8-88cc-146d4bbd8a0f.png)
 
 Hours past....
 
