@@ -1,6 +1,7 @@
 Your alarm starts ringing...
 
-![alarm](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj71PPhs8beAhXmRt8KHf9oCdgQjRx6BAgBEAU&url=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-29523031-restless-man-night-bed-trying-fall-asleep&psig=AOvVaw2tiy7Z3b_mHc-v3hGDMY5O&ust=1541821750544605)
+![image](https://user-images.githubusercontent.com/32097866/48242451-f60e1700-e3e3-11e8-8e4c-c9bd9748ebda.png)
+
 You...
 
 ## [Start your morning routine](story1.md)
