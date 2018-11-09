@@ -9,5 +9,5 @@ all selected to do a project together you all decided to make the project based 
 caught up on you had to fill out applications for your club trips, After long work you were really tired and fell asleep...
 
 
-# [google drawing](https://docs.google.com/drawings/d/1eMPE_B7dB32Rbb3Cg-5-LoF8s9Ya6HrD_XUp2dmHUkc)
+# [google drawing](https://docs.google.com/drawings/d/1eMPE_B7dB32Rbb3Cg-5-LoF8s9Ya6HrD_XUp2dmHUkc/)
 ### [Begin...](story.md)
