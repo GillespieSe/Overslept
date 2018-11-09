@@ -1,0 +1,3 @@
+Suddenly the old lady that helped you get your wallet starts to approach you and you both start chatting...
+
+## [Next](story2.5.5.md)

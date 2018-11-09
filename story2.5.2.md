@@ -1,0 +1,3 @@
+Old lady says you dropped your wallet and points to it, you reward the old lady with 10 dollars and she blushes...
+
+## [Next](story2.5.3.md)

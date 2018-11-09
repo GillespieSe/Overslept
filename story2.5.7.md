@@ -1,0 +1,3 @@
+Another train arrives and you walk slowly and enter...
+
+## [Next](story2.6.md)

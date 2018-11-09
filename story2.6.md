@@ -1,0 +1,3 @@
+You sit on the train to arrive to school...
+
+## [Next](story2.7.md)
