@@ -1,0 +1,3 @@
+Eventually David stops at Mia's house, (an old friend of yours from middle school) and you and david greet her with a "hey" she smiles and replies "hi" shee gets in and you three start to head to school...
+
+## [Next](story1.4.md)
