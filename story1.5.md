@@ -12,4 +12,4 @@ You, confused goes into your pocket to check the alert.
 
 You realize you left your phone at home...
 
-## [Next](Story1.6.md)
+## [Next](story1.6.md)
